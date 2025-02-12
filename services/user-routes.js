@@ -1,4 +1,3 @@
-const { products } = require("../db/product-data");
 const { users } = require("../db/user-data");
 
 const createUSer = (req, res) => {
