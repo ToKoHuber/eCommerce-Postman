@@ -45,4 +45,5 @@ app.delete("/products/:id", deleteProductbyId); //Delete a product by ID
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`);
+  console.log(`Example app listening on port ${port}`);
 });
